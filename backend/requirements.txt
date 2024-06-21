@@ -1,0 +1,13 @@
+llama-index
+transformers 
+accelerate 
+bitsandbytes
+llama-index-readers-web
+llama-index-llms-huggingface
+llama-index-embeddings-huggingface
+llama-index-program-openai
+llama-index-agent-openai
+fastapi
+uvicorn 
+PyPDF2 
+python-multipart
